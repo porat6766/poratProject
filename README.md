@@ -51,3 +51,4 @@ git pull origin main
 
 # Install any new dependencies
 npm install
+```
